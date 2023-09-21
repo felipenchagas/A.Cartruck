@@ -829,6 +829,18 @@ button {
     display: inline-block;
 }
 
+
+.page-header-info h1 {
+    color: #fff;
+    font-size: 46px;
+    line-height: 56px;
+    margin-bottom: 15px;
+}
+
+.page-header-info h1 span {
+    color: #ff9900;
+}
+
 .page-header-info h2 {
     color: #fff;
     font-size: 46px;
